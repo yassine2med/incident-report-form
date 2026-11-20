@@ -1,0 +1,10 @@
+{
+  "incident_id": "INC-2026-0043",
+  "date": "2026-13-40",
+  "time": "9am",
+  "location": "",
+  "reported_by": "Dana Reyes",
+  "incident_type": "Spill",
+  "severity": "Critical",
+  "description": "Chemical drum tipped in the storage room."
+}

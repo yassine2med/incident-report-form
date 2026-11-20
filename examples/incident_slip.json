@@ -1,0 +1,22 @@
+{
+  "incident_id": "INC-2026-0042",
+  "date": "2026-11-12",
+  "time": "09:45",
+  "location": "Warehouse B, loading dock 3",
+  "reported_by": "Dana Reyes, Facilities Coordinator",
+  "incident_type": "Injury",
+  "severity": "Medium",
+  "description": "A technician slipped on a wet floor near the loading dock door while carrying a box of filters. Rain had been blown in under the door during the morning. The technician fell on one knee and reported bruising. No other person or equipment was involved.\nThe area had no wet floor sign at the time.",
+  "people_involved": [
+    {"name": "Sam Ortiz", "role": "HVAC technician", "injury": "Bruised knee, first aid given"}
+  ],
+  "witnesses": ["Priya Nair", "Leo Brandt"],
+  "immediate_action": "Area cordoned off and mopped. First aid given on site. Technician returned to light duty for the day.",
+  "root_cause": "The dock door seal is worn and lets rain in. No routine check of the dock floor during wet weather.",
+  "corrective_actions": [
+    {"action": "Replace the dock 3 door seal", "owner": "Facilities", "due": "2026-12-05"},
+    {"action": "Add dock floor check to the wet weather round", "owner": "Dana Reyes", "due": "2026-11-20"},
+    {"action": "Place anti-slip mat inside dock 3", "owner": "Safety lead", "due": "2026-11-19"}
+  ],
+  "follow_up_required": true
+}
