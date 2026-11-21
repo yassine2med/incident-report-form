@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="incident-report-form" width="100%"></p>
+
 # incident-report-form
 
 Incident reports get written in email, in chat, or on a paper form that nobody can search later. This repo keeps each incident as a small JSON record, checks that it is complete and consistent, and draws a clean one page PDF form from it. The PDF writer is part of the repo and uses only the Python standard library.
