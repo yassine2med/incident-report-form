@@ -2,6 +2,8 @@
 
 # incident-report-form
 
+[![CI](https://github.com/yassine2med/incident-report-form/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/incident-report-form/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Incident reports get written in email, in chat, or on a paper form that nobody can search later. This repo keeps each incident as a small JSON record, checks that it is complete and consistent, and draws a clean one page PDF form from it. The PDF writer is part of the repo and uses only the Python standard library.
 
 ![Screenshot](docs/screenshot.png)
